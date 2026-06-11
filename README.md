@@ -6,15 +6,15 @@ Landing page statique pour **Mundialy**, organisee en fichiers separes HTML, CSS
 
 ```text
 .
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── .github/
-│   └── workflows/
-│       └── pages.yml
-└── README.md
+|-- index.html
+|-- css/
+|   `-- style.css
+|-- js/
+|   `-- main.js
+|-- .github/
+|   `-- workflows/
+|       `-- pages.yml
+`-- README.md
 ```
 
 ## Technologies

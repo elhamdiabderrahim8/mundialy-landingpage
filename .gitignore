@@ -16,3 +16,15 @@ mundialy (1).html
 node_modules/
 dist/
 build/
+
+# AL / Dynamics 365 Business Central files kept from the initial remote
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+rad.json
+*.g.xlf
+*.bclicense
+*.flf
+TestResults.xml
