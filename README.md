@@ -56,6 +56,13 @@ Il applique cette chaine :
 
 Le deploiement peut aussi etre lance manuellement depuis l'onglet **Actions** avec `workflow_dispatch`.
 
+Avant le premier deploiement, GitHub Pages doit etre active une seule fois dans le repository :
+
+1. Aller dans **Settings**.
+2. Ouvrir **Pages**.
+3. Dans **Build and deployment**, choisir **GitHub Actions** comme source.
+4. Relancer le workflow **Deploy static site to GitHub Pages** depuis l'onglet **Actions**, ou pousser un nouveau commit sur `main`.
+
 ## Repository
 
 Repository cible :
