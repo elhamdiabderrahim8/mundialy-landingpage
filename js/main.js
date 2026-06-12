@@ -1,4 +1,4 @@
-﻿// ── i18n ──
+// ── i18n ──
 const i18n = {
   ar: {
     nav_features: 'المميزات', nav_iptv: 'IPTV', nav_live: 'النتائج',
@@ -24,7 +24,7 @@ const i18n = {
     bracket_sub: 'تابع مسار كل منتخب من دور 32 حتى النهائي الكبير',
     round_16: 'دور الـ16', round_qf: 'ربع النهائي', round_sf: 'نصف النهائي', round_final: 'النهائي الكبير',
     dl_title: 'حمّل Mundialy\nمجاناً الآن', dl_sub: 'انضم إلى ملايين المشجعين حول العالم. تجربة كأس العالم 2026 تبدأ هنا.',
-    dl_apk_label: 'تحميل مباشر', dl_tg_label: 'اطلب عبر',
+    dl_apk_label: 'متوفر على', dl_direct_label: 'تحميل مباشر', dl_tg_label: 'اطلب عبر',
     tg_iptv_msg: '🔑 احصل على Trilar IPTV — تواصل معنا على Telegram',
     footer_rights: '© 2026 Mundialy — جميع الحقوق محفوظة',
   },
@@ -52,7 +52,7 @@ const i18n = {
     bracket_sub: 'Suivez le parcours de chaque équipe du tour de 32 jusqu\'à la grande finale',
     round_16: '1/8 Finale', round_qf: 'Quarts', round_sf: 'Demis', round_final: 'FINALE',
     dl_title: 'Téléchargez Mundialy\ngratuitement', dl_sub: 'Rejoignez des millions de supporters. L\'expérience Coupe du Monde 2026 commence ici.',
-    dl_apk_label: 'Téléchargement direct', dl_tg_label: 'Obtenir via',
+    dl_apk_label: 'Disponible sur', dl_direct_label: 'Téléchargement direct', dl_tg_label: 'Obtenir via',
     tg_iptv_msg: '🔑 Obtenir Trilar IPTV — Contactez-nous sur Telegram',
     footer_rights: '© 2026 Mundialy — Tous droits réservés',
   },
@@ -80,7 +80,7 @@ const i18n = {
     bracket_sub: 'Track every team from the Round of 32 to the grand final',
     round_16: 'Round of 16', round_qf: 'Quarter Finals', round_sf: 'Semi Finals', round_final: 'GRAND FINAL',
     dl_title: 'Download Mundialy\nFor Free', dl_sub: 'Join millions of fans worldwide. The World Cup 2026 experience starts here.',
-    dl_apk_label: 'Direct Download', dl_tg_label: 'Get via',
+    dl_apk_label: 'Available on', dl_direct_label: 'Direct Download', dl_tg_label: 'Get via',
     tg_iptv_msg: '🔑 Get Trilar IPTV — Contact us on Telegram',
     footer_rights: '© 2026 Mundialy — All rights reserved',
   }
